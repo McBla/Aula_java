@@ -28,7 +28,9 @@ margin-bottom: 10px;
  #toggle {
     
  }
-
- .Otaku{
-  border: 1px solid ;
- }
+#Formulario{
+  width: 400px;
+  padding: 20px;
+  background-color:blue ;
+}
+ 
